@@ -1,5 +1,7 @@
 public class Animal {
     private String name;
+    private Long numOfLimbs;
+
 
     public Animal(String name) {
         this.name = name;
