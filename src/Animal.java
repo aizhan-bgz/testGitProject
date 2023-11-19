@@ -1,5 +1,6 @@
 public class Animal {
     private String name;
+    private Long numOfLimbs;
 }
 /*
   git init
